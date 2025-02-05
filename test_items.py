@@ -1,9 +1,5 @@
-
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-import math
-import pytest
 
 from selenium.webdriver.support.ui import WebDriverWait
 
